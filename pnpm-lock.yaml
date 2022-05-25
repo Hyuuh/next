@@ -1,4 +1,4 @@
-lockfileVersion: 5.3
+lockfileVersion: 5.4
 
 specifiers:
   autoprefixer: 10.4.2
@@ -10,15 +10,15 @@ specifiers:
   tailwindcss: 3.0.15
 
 dependencies:
-  next: 12.0.8_react-dom@17.0.2+react@17.0.2
-  next-auth: 4.1.2_react-dom@17.0.2+react@17.0.2
+  next: 12.0.8_sfoxds7t5ydpegc3knd667wn6m
+  next-auth: 4.1.2_sfoxds7t5ydpegc3knd667wn6m
   react: 17.0.2
   react-dom: 17.0.2_react@17.0.2
 
 devDependencies:
   autoprefixer: 10.4.2_postcss@8.4.5
   postcss: 8.4.5
-  tailwindcss: 3.0.15_ef48b3b8837f8a23677bffe8f9cd866d
+  tailwindcss: 3.0.15_55elhoedp6fcgz3377upttmgnu
 
 packages:
 
@@ -653,7 +653,7 @@ packages:
     engines: {node: ^10 || ^12 || ^13.7 || ^14 || >=15.0.1}
     hasBin: true
 
-  /next-auth/4.1.2_react-dom@17.0.2+react@17.0.2:
+  /next-auth/4.1.2_sfoxds7t5ydpegc3knd667wn6m:
     resolution: {integrity: sha512-r5Km0eIDgGad+yhegk6OpulAnf7pyxsIpLec3xYB3PIb7F3bUTsvgWm/n/wAvlT0aAF1xKQWOgqhwPjrjte89g==}
     engines: {node: ^12.19.0 || ^14.15.0 || ^16.13.0}
     peerDependencies:
@@ -677,7 +677,7 @@ packages:
       uuid: 8.3.2
     dev: false
 
-  /next/12.0.8_react-dom@17.0.2+react@17.0.2:
+  /next/12.0.8_sfoxds7t5ydpegc3knd667wn6m:
     resolution: {integrity: sha512-g5c1Kuh1F8tSXJn2rVvzYBzqe9EXaR6+rY3/KrQ7y0D9FueRLfHI35wM0DRadDcPSc3+vncspfhYH3jnYE/KjA==}
     engines: {node: '>=12.22.0'}
     hasBin: true
@@ -1075,7 +1075,7 @@ packages:
     engines: {node: '>= 0.4'}
     dev: true
 
-  /tailwindcss/3.0.15_ef48b3b8837f8a23677bffe8f9cd866d:
+  /tailwindcss/3.0.15_55elhoedp6fcgz3377upttmgnu:
     resolution: {integrity: sha512-bT2iy7FtjwgsXik4ZoJnHXR+SRCiGR1W95fVqpLZebr64m4ahwUwRbIAc5w5+2fzr1YF4Ct2eI7dojMRRl8sVQ==}
     engines: {node: '>=12.13.0'}
     hasBin: true
